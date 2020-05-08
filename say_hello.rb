@@ -1,8 +1,8 @@
-def sayhello (name)
+def say_hello (name)
   puts "Hello " + name)
   
 end  
 
-sayhello ("Gabriela")
+sayhello 
 
 
